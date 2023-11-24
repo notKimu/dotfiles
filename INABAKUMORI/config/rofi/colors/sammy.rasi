@@ -1,0 +1,16 @@
+/**
+ *
+ * Author : Kimu
+ * Github : @notKimu
+ *
+ * Colors
+ **/
+
+* {
+    background:     #bcbcbc;
+    background-alt: #151515;
+    foreground:     #151515;
+    selected:       #151515;
+    active:         #151515;
+    urgent:         #151515;
+}
